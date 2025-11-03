@@ -5,5 +5,7 @@ Este projeto é uma aplicação backend desenvolvida em PHP para gerenciar o cad
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 PHP: Linguagem de programação para o backend da API.
+
 MySQL: Banco de dados relacional para persistência de dados de usuários.
+
 Postman: Ferramentas para testar as rotas da API durante o desenvolvimento.
